@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ColorSense: AI 퍼스널컬러 진단",
+  "description": "AI를 활용하여 사진 속 얼굴의 퍼스널컬러를 분석하고 어울리는 색상을 추천해드리는 퍼스널컬러 컨설턴트 서비스입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
